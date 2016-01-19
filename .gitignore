@@ -3,5 +3,4 @@ target/
 .springBeans
 .classpath
 .project
-.idea/
-*.iml
+bin/
